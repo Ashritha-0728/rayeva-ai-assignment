@@ -113,3 +113,11 @@ Open
 test.html
 
 Generate product metadata and view structured output.
+
+## Demo Video
+
+Project demonstration:
+## Demo Video
+
+Project demonstration:
+https://drive.google.com/file/d/1htlQVKmXm6RxcR19eBrkNfAfC8Iojn4c/view?usp=drivesdk
